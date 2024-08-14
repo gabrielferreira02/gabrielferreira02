@@ -26,4 +26,4 @@
 
 <h1>Linguagens mais utlizadas</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabrielferreira&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabrielferreira)](https://github.com/anuraghazra/github-readme-stats)
