@@ -1,3 +1,5 @@
+![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/Gabriel%20Ferreira.png)
+
 <h1>👤 Sobre mim</h1>
 
 - Gabriel Ferreira Alves
