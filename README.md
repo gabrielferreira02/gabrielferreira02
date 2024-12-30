@@ -1,10 +1,10 @@
-![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/Gabriel%20Ferreira.png)
+<!--![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/Gabriel%20Ferreira.png)-->
 
 <h1>👤 Sobre mim</h1>
 
 - Gabriel Ferreira Alves
 - Estudante de Ciência da Computação na UERJ
-- Desenvolvedor Backend
+<!-- - Desenvolvedor Backend -->
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/user0681zi)
 
