@@ -1,4 +1,4 @@
-<!--![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/Gabriel%20Ferreira.png)-->
+![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/banner.png)
 
 <h1>👤 Sobre mim</h1>
 
