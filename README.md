@@ -7,6 +7,7 @@
 <!-- - Desenvolvedor Backend -->
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/user0681zi)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gabrielf_04_2002)
 
 <h1>📫 Contato</h1>
 
