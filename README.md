@@ -1,34 +1,16 @@
-![banner](https://github.com/dev-gabrielferreira/dev-gabrielferreira/blob/main/banner.png)
+# <samp>Gabriel Ferreira</samp>
 
-<h1>👤 Sobre mim</h1>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/gabriel-ferreira-5414382a8/)](https://www.linkedin.com/in/gabriel-ferreira-5414382a8/)
+[![Email Badge](https://img.shields.io/badge/Email-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:gabrielf.04.2002@gmail.com)](mailto:seuemail@exemplo.com)
 
-- Gabriel Ferreira Alves
-- Estudante de Ciência da Computação na UERJ
-<!-- - Desenvolvedor Backend -->
-  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/user0681zi)
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gabrielf_04_2002)
-
-<h1>📫 Contato</h1>
-
-- email: gabrielf.04.2002@gmail.com
-
-<h1>🛠 Tecnologias que uso</h1>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<h1>💻 Sistemas Operacionais</h1>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<h1>Linguagens mais utlizadas</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreira02&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<samp>
+Sou estudante de <strong>Ciência da Computação na UERJ</strong> e buscando uma oportunidade em <strong>estágio backend</strong>. Buscando sempre aprender coisas novas e aprimorar meus conhecimentos em desenvolvimento de api's e arquitetura de sistemas assim como as melhores práticas para construir sistemas seguros e escaláveis
+</samp>
+<br>
+<samp style="margin-top: 20px">
+<strong>Foco atual</strong>: Java + Spring Boot | Arquitetura Limpa | API Rest
+</samp>
+<br>
+<samp style="margin-top: 20px">
+Também sou apaixonado por <strong>música</strong> 🎹 e futebol <strong>(Vasco da Gama)</strong> ⚫️⚪️ 
+</samp>
