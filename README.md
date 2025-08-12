@@ -8,7 +8,7 @@ Sou estudante de <strong>Ciência da Computação na UERJ</strong> e buscando um
 </samp>
 <br>
 <samp style="margin-top: 20px">
-<strong>Foco atual</strong>: Java + Spring Boot | Arquitetura Limpa | API Rest
+<strong>Foco atual</strong>: C# + ASP.NET | Arquitetura Limpa | API Rest
 </samp>
 <br>
 <samp style="margin-top: 20px">
